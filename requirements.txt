@@ -1,0 +1,8 @@
+flask
+Adafruit_DHT
+RPi.GPIO
+pandas-gbq
+google-cloud-bigquery
+requests
+Flask
+Flask-Cors
