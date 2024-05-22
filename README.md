@@ -10,6 +10,8 @@ This project aims to create a framework for collecting, processing, and analyzin
 
 ## Project Structure
 
+As we didn't have enough devices to have a real-life architecture, all the below part are hosted on the same raspberry pi 4B.
+
 ```
 UI + Back Part
 ├── home.html
